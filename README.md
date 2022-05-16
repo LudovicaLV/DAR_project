@@ -2,11 +2,11 @@
 
 In this repository we provide the R code used for the analysis presented in the paper. In particular:
 
-- 1: DAR measures calculation starting from ATLAS data
-- 2: clustering of extracted DAR measures
-- 3: PCA analysis and DAR temporal progression per individual
-- 4: clustering of starting points
-- 5: DAR distribution analysis using demographic and starting location information
-- 6: DAR distribution analysis for family 1
-- 7: DAR distribution analysis for family 2
+- DAR1_measures.R: DAR measures calculation starting from ATLAS data
+- DAR2_clustering.R: clustering of extracted DAR measures
+- DAR3_PCA_plot.R: PCA analysis and DAR temporal progression per individual
+- DAR4_start_points.R: clustering of starting points
+- DAR5_by_demo_loc.R: DAR distribution analysis using demographic and starting location information
+- DAR6_family1.R: DAR distribution analysis for family 1
+- DAR7_family2.R: DAR distribution analysis for family 2
 
