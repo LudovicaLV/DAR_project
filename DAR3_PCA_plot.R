@@ -49,5 +49,5 @@ new_df_pca <- newdf_final_noNA[c(2:5)]
 colnames(new_df_pca) <- c("a", "b", "c", "d")
 df.pca <- prcomp(new_df_pca, center = TRUE, scale. = FALSE)
 summary(df.pca)
-ggbiplot(df.pca, ellipse=TRUE, groups=newdf_final_noNA$color_new, alpha = 0.075, varname.size = 2.0) +
+ggbiplot(df.pca, ellipse=FALSE, groups=newdf_final_noNA$color_new, alpha = 1, varname.size = 2.0) +
   scale_colour_manual(name="Group", values= col_lv)
