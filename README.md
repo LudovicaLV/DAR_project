@@ -23,4 +23,5 @@ In this repository we provide the R code used for the analysis presented in the 
 - DAR7_family2.R: 
   DAR distribution analysis for family 2
 
-Individual data (as .RDAta) can be found in this folder[https://drive.google.com/drive/folders/1DwtJwk9S1KIPxboLUMUDfTbozNC1L0a9?usp=sharing]. 
+Individual data (as .RDAta) can be found in this [folder](https://drive.google.com/drive/folders/1DwtJwk9S1KIPxboLUMUDfTbozNC1L0a9?usp=sharing). 
+
