@@ -1,4 +1,4 @@
-# Categorizing diel movement patterns using barn owl movement track exemplars
+# Categorizing animal diel movement patterns with examples from barn owl tracking
 
 In this repository we provide the R code used for the analysis presented in the paper. In particular:
 
